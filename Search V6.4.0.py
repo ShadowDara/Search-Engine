@@ -1,5 +1,5 @@
-# This script is written by Shadow_Dara
-# Github: https://github.com/blackknight5027
+# This script is written by ShadowDara
+# Github: https://github.com/shadowdara
 
 import os
 import fnmatch
@@ -311,6 +311,6 @@ def hack():
 # Run the program
 if __name__ == '__main__':
     print(" ")
-    print(" Search Engine - By Shadow_Dara - 6.4.0")
+    print(" Search Engine - By ShadowDara - 6.4.0")
     display_menu()
     input("\n Press Enter to exit...")

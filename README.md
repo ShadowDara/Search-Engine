@@ -1,7 +1,7 @@
 # Search V6.4.0
 
 **Author**: Shadow_Dara  
-**GitHub**: [Shadow_Dara's GitHub](https://github.com/blackknight5027)
+**GitHub**: [Shadow_Dara's GitHub](https://github.com/shadowdara)
 
 ## Description
 
